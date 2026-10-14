@@ -1,4 +1,16 @@
+# bienvenue dans bureau ovale till dawn
+- tu veux etre indépendant par le voyage
+
+- il y a toujours le "qg" que tu imagines dans ton salon mais il n'y a pas la pression qui va avec
+- dans ton quotidien tu ajoutes des soupes numériques, tu ecris des programmes pour scanner du code html
+- tu manges léger, fais un voyage pour louer un logement comme si c'était ta petite maison loin de chez toi,, en réalité tu peux louer ou habiter un logement
+- tu regardes des documentaires d'animaux , fais un régime avec du fromage sur, vin
+
+
+
 C'est un concept fascinant et très onirique ! Ton README décrit une sorte d'épopée transmédia où le développement web (les frameworks) devient un outil de libération personnelle et géographique.
+
+
 
 Voici un résumé structuré pour ton GitHub :
 📖 Résumé : L'Émancipation par le Code et le Flux
